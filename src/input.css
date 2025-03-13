@@ -1,4 +1,7 @@
 @import "tailwindcss";
 .poppins-regular {
     font-family: "Poppins", sans-serif;
-  }
+}
+.pri-color{
+  color: #E76F51;
+}
